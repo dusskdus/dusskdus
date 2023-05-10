@@ -1,9 +1,8 @@
-### Hi there 👋
+## Hi 👋
+<img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/> <img src ="https://img.shields.io/badge/Java-007396?&style=flat-square&logo=eclipseide&logoColor=white"/> <img src ="https://img.shields.io/badge/C-A8B9CC?&style=flat-square&logo=C&logoColor=white"/> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-FF5E00.svg?&style=flat-square&logo=Tistory&logoColor=white"/> <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
+<img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=flat-square&logo=Notion&logoColor=white"/>
+## BOJ
+[![solved.ac/profile/skdusb0007](http://mazassumnida.wtf/api/v2/generate_badge?boj=skdusb0007)](https://solved.ac/skdusb0007)
 
-<!--
-[![min0's GitHub stats](https://github-readme-stats.vercel.app/api?username=dusskdus&show_icons=true&theme=draculaa&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmin-0&count_bg=%2345DF22&title_bg=%23555555&icon=github.svg&icon_color=%23FFE4C4&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<a href="https://outsideissummer.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link="https://outsideissummer.tistory.com/"/></a>
-
--->
+## Stats
+![NaYeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaYeon&show_icons=true&theme=dracula)

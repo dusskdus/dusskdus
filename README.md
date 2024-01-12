@@ -3,6 +3,3 @@
 <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=flat-square&logo=Notion&logoColor=white"/>
 ## BOJ
 [![solved.ac/profile/skdusb0007](http://mazassumnida.wtf/api/v2/generate_badge?boj=skdusb0007)](https://solved.ac/skdusb0007)
-
-## Stats
-![NaYeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaYeon&show_icons=true&theme=dracula)

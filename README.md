@@ -7,12 +7,20 @@
 #### Today's <br>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdusskdus&count_bg=%23555555&title_bg=%23292929&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a><br>
 #### Devlog<br>
-<a href="https://dev-nesia.tistory.com"><img src="https://img.shields.io/badge/Tistory-ff5a48?style=flat-square&logo=tistory&logoColor=white&link=https://dev-nesia.tistory.com"/></a><br><br>
+<a href="https://dev-nesia.tistory.com"><img src="https://img.shields.io/badge/Tistory-ff5a48?style=for-the-badge&logo=tistory&logoColor=white&link=https://dev-nesia.tistory.com"/></a><br><br>
 
 
 ## 💡Tech Stack
-<img src="https://img.shields.io/badge/JavaScript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/> 
-<br> <img src ="https://img.shields.io/badge/Java-007396?&style=flat-square&logo=eclipseide&logoColor=white"/> <img src ="https://img.shields.io/badge/C-A8B9CC?&style=flat-square&logo=C&logoColor=white"/> <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+ <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
+<br> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+ <img src ="https://img.shields.io/badge/C-A8B9CC?&style=for-the-badge&logo=C&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+ <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
+
 <div align="center"><br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dusskdus&layout=compact&theme=white)
